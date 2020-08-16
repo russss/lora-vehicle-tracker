@@ -1,0 +1,2 @@
+uint8_t app_eui[EUI_SIZE] = <App EUI>;
+uint8_t app_key[APPKEY_SIZE] = <App key>;
